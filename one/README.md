@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Idris Kushimo | Email:  (ikwalex23@gmail.com) 
-
-Samuel Akinwande |  Email:  (samdammy82@gmail.com)
+ 
+Idris Kushimo <ikwalex23@gmail.com>
+Samuel Akinwande <samdammy82@gmail.com>
